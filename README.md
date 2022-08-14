@@ -1,4 +1,4 @@
-# api_in_10_min
+# api-in-10-min
 1. Create virtual environment
 ```commandline
 python -m venv venv 
